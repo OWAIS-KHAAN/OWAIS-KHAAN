@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Muhammad Owais Khan
 
-<!--
-**OWAIS-KHAAN/OWAIS-KHAAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | Software Engineer - Flutter, React & Python**
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineer building cross-platform mobile apps, full-stack web applications and automation bots since 2020. I have delivered food delivery and sales management apps, and I build Telegram/WhatsApp bots that send daily updates.
+
+## Tech Stack
+
+- Flutter
+- Dart
+- React
+- JavaScript
+- Python
+- PHP
+- FastAPI
+- Firebase
+- MongoDB
+- AWS
+- Git
+
+## Featured Work
+
+- **Food Delivery App** — Flutter
+- **Sales Management App** — Flutter + Firebase
+- **Full-Stack Web Application** — React + Python, deployed on AWS
+- **Automation Bots** — Python
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/engr-owais-khan-/
+- Email: mowaiskhan139@gmail.com
